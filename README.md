@@ -1,10 +1,3 @@
-# _    _ ______ _      _____  ______ _____     __      __
-#| |  | |  ____| |    |  __ \|  ____|  __ \    \ \    / /
-#| |__| | |__  | |    | |__) | |__  | |__) |____\ \  / / 
-#|  __  |  __| | |    |  ___/|  __| |  _  /______\ \/ /  
-#| |  | | |____| |____| |    | |____| | \ \       \  /   
-#|_|  |_|______|______|_|    |______|_|  \_\       \/
-Jou-Kh
 VirusTotal API3
 
 
@@ -57,10 +50,10 @@ Analysis report:
 ### Positional arguments
 * resource - Object that you want to analyse in VirusTotal (file, URL, IP address or domain).
 ### Optional arguments
-*[-h], [--help] - Show help message and exit
-*[-hr], [--hash-report] - Getting a report on the results of analyzing a file by its hash (SHA256, SHA1 or MD5).
-*..*[-uid], [--url-id] - Getting the identifier of the URL for further analysis.
-*[-usr], [--url-scan-report] - Getting a report on the results of scanning a URL.
-*[-uar], [--url-analyse-report] - Getting a report on the results of URL analysis.
-*[-ipr], [--ip-report] - Getting a report on the results of IP address analysis.
-*[-dr], [--domain-report] - Getting a report on the results of domain analysis.
+..*[-h], [--help] - Show help message and exit
+..*[-hr], [--hash-report] - Getting a report on the results of analyzing a file by its hash (SHA256, SHA1 or MD5).
+..*[-uid], [--url-id] - Getting the identifier of the URL for further analysis.
+..*[-usr], [--url-scan-report] - Getting a report on the results of scanning a URL.
+..*[-uar], [--url-analyse-report] - Getting a report on the results of URL analysis.
+..*[-ipr], [--ip-report] - Getting a report on the results of IP address analysis.
+..*[-dr], [--domain-report] - Getting a report on the results of domain analysis.
