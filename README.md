@@ -1,5 +1,5 @@
 VirusTotal API3
-
+![alt text](https://github.com/YousefKh/HELPER-V/blob/main/header.jpg"Logo Title Text 1")
 
 ## Installation
 
@@ -8,7 +8,7 @@ pip3 install vtapi3
 pip3 install requests
 ```
 
-Before using the package from the command line, you must create an environment variable [vt_api_key] in which to place the value of the access key to the VirusTotal API functions
+Before using the package from the command line, you must create an environment variable `[vt_api_key]` in which to place the value of the access key to the VirusTotal API functions
 
 ## Usage
 ###### Code
