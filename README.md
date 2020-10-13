@@ -1,7 +1,7 @@
 VirusTotal API3
-![](header.jpg)
 
-HELPER-V 
+![](header.jpg)
+ 
 ## Installation
 
 ```bash
@@ -49,7 +49,7 @@ Analysis report:
                 }
 ```
 ### Positional arguments
-* `resource` - Object that you want to analyse in VirusTotal (hash, URL, IP address or domain).
+* `resource` - Object that you want to analyse in VirusTotal (hash, URL, IP address, domain).
 ### Optional arguments
 * `[-h]`, `[--help]` - Show help message and exit
 * `[-hr]`, `[--hash-report]` - Getting a report on the results of analyzing a file by its hash (SHA256, SHA1 or MD5).
