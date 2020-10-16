@@ -13,7 +13,7 @@ Before using the package from the command line, you must create an environment v
 
 ## Usage
 ###### Code
-
+```
   ....
     try:
         vt_files = vtapi3.VirusTotalAPIFiles(api_key)
